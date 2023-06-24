@@ -15,6 +15,8 @@ pragma solidity 0.8.18;
        to the amount that is supposed to be burned.
 */
 
+console.log("transaction_id" + "0x6478d6F8f95C9b47157Be453c77Ea1762c30413d");
+
 contract MyToken {
 
     // public variables here
